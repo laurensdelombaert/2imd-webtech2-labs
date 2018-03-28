@@ -20,7 +20,12 @@
 [Link to Codepen.io](https://codepen.io/emilyberghen/pen/QQeeoY)
 [Link to Github repository](https://github.com/emilyberghen/portfolio/tree/master/notesapp)
 
-### ✨ WEEK 4 - 
+### ✨ WEEK 4 - NODEJS BASICS
 
 [Link to Heroku](https://kwee-ni.herokuapp.com/kweeni)
 [Link to Github repository](https://github.com/emilyberghen/kwee-ni)
+
+### ✨ WEEK 5 - WEBSOCKETS
+
+[Link to Heroku](https://poll-app-e.herokuapp.com/)
+[Link to Github repository](https://github.com/emilyberghen/poll-app)
