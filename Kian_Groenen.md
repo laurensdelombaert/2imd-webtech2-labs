@@ -27,7 +27,7 @@ GitHub Notes App link -> [link to repository](https://github.com/KianGroenen/Web
 
 Notes App -> [link to codepen](https://codepen.io/KianGroenen/pen/KoPYrr)
 
-### Week 5 - Websockets
+### Week 5 - Websockets (fixed)
 
 Link Github Repo -> [link to repository](https://github.com/KianGroenen/Webtech3Labo/tree/master/Week5/sockets)
 
