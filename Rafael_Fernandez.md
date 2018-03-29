@@ -21,5 +21,10 @@
 
 ## Week 4: NodeJS Basics
 ### Kweeni NodeJS Express
-[Link to Kweeni Express Heroku](https://kweeni-project.herokuapp.com/kweeni)
+[Link to Kweeni Express Heroku](https://kweeni-project.herokuapp.com/kweeni) 
 [Link to Kweeni Express GitHub](https://github.com/RafaelDesignBE/Webtech3/tree/master/NodeJS_Kweeni)
+
+## Week 6: Web Sockets
+### Web Sockets poll
+[Link to Kweeni Express Heroku](https://websockets-poll.herokuapp.com/) 
+[Link to Kweeni Express GitHub](https://github.com/RafaelDesignBE/PollWebSockets)
