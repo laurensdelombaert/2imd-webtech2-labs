@@ -24,3 +24,8 @@
 
   - Heroku link: https://benchaphonnodejs.herokuapp.com/kweeni/hier-je-title
   - repository: https://github.com/akasake/webtech3 (in de nodejs map)
+  
+### Les 5
+
+  - Heroku link: https://benchaphonwebsockets.herokuapp.com/ en https://benchaphonwebsockets.herokuapp.com/createpoll
+  - repository: https://github.com/akasake/websockets
