@@ -27,3 +27,11 @@
 
 - codepen notes app:
 [codepen](https://codepen.io/Jderoeck/pen/BYMOVK?editors=1111)
+
+# Week 4:
+
+- repository lab 4:
+[Repository](https://github.com/Jderoeck/node-express)
+
+- heroku lab 4:
+[Heroku](https://node-express-lab4.herokuapp.com/)
