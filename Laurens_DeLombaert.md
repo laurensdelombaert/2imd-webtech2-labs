@@ -20,6 +20,7 @@ In dit bestand kan u mijn werken voor het vak Webtech 3 [YP5536] raadplegen. Voo
     - [1.6. Week 5: Web Sockets](#16-week-5-web-sockets)
         - [1.6.1. Extra miles](#161-extra-miles)
         - [1.6.2. MongoUniversity Week 1](#162-mongouniversity-week-1)
+    - [1.7. MongoUniversity Week 2](#17-mongouniversity-week-2)
 
 <!-- /TOC -->
 
@@ -96,3 +97,7 @@ Heroku app: <https://growl-sockets.herokuapp.com/>
 See top right for name.
 
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo1.png)
+
+## 1.7. MongoUniversity Week 2
+
+![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo2.png)
