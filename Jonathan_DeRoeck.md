@@ -35,3 +35,13 @@
 
 - heroku lab 4:
 [Heroku](https://node-express-lab4.herokuapp.com/)
+
+# Week 5:
+
+- repository lab 5:
+[Repository](https://github.com/Jderoeck/poll)
+
+- heroku lab 5:
+"/createpoll" om een nieuwe poll aan te maken
+kleuren van de buttons veranderen als er meer op gestemd wordt
+[Heroku](https://lab5poll.herokuapp.com//)
