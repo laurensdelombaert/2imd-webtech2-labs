@@ -42,6 +42,6 @@
 [Repository](https://github.com/Jderoeck/poll)
 
 - heroku lab 5:
-"/createpoll" om een nieuwe poll aan te maken
-kleuren van de buttons veranderen als er meer op gestemd wordt
+    - "/createpoll" om een nieuwe poll aan te maken.
+    - en de kleuren van de buttons veranderen als er meer op gestemd wordt
 [Heroku](https://lab5poll.herokuapp.com//)
