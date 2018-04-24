@@ -103,28 +103,38 @@ Heroku app: <https://growl-sockets.herokuapp.com/>
 
 ## 1.3. MongoDB University
 
+Paragraphs in this section are copied from the official Syllabus from MongoDB University to better display the topics I've learned each week.
+
 ### 1.3.1. M001
 
 ### 1.3.2. M101JS
 
 #### 1.3.2.1. Week 1: Introduction
 
-See top right for name.
+Introduction to MongoDB and the Node.js driver; Installing MongoDB; Installing Node.js and using NPM; Introduction to the Mongo Shell, JSON, BSON, and the MongoDB query language; Introduction to building web applications using Express
 
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo1.png)
 
 #### 1.3.2.2. Week 2: CRUD
 
+Mongo Shell, Query Operators, Update Operators and a Few Commands
+
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo2.png)
 
 #### 1.3.2.3. Week 3: The Node.js Driver
+
+Deeper dive on the Node.js driver; CRUD operations in the driver; Cursors; writing applications in the driver
 
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo3.png)
 
 #### 1.3.2.4. Week 4: Schema Design
 
+Patterns, Case Studies & Tradeoffs
+
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo4.png)
 
 #### 1.3.2.5. Week 5: Indexes and Performance
+
+Using Indexes, Monitoring And Understanding Performance. Performance In Sharded Environments
 
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo5.png)
