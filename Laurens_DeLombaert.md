@@ -23,11 +23,11 @@ In dit bestand kan u mijn werken voor het vak Webtech 3 [YP5536] raadplegen. Voo
     - [1.3. MongoDB University](#13-mongodb-university)
         - [1.3.1. M001](#131-m001)
         - [1.3.2. M101JS](#132-m101js)
-            - [1.3.2.1. MongoUniversity Week 1](#1321-mongouniversity-week-1)
-            - [1.3.2.2. MongoUniversity Week 2](#1322-mongouniversity-week-2)
-            - [1.3.2.3. MongoUniversity Week 3](#1323-mongouniversity-week-3)
-            - [1.3.2.4. MongoUniversity Week 4](#1324-mongouniversity-week-4)
-            - [1.3.2.5. MongoUniversity Week 5](#1325-mongouniversity-week-5)
+            - [1.3.2.1. Week 1: Introduction](#1321-week-1-introduction)
+            - [1.3.2.2. Week 2: CRUD](#1322-week-2-crud)
+            - [1.3.2.3. Week 3: The Node.js Driver](#1323-week-3-the-nodejs-driver)
+            - [1.3.2.4. Week 4: Schema Design](#1324-week-4-schema-design)
+            - [1.3.2.5. Week 5: Indexes and Performance](#1325-week-5-indexes-and-performance)
 
 <!-- /TOC -->
 
@@ -107,24 +107,24 @@ Heroku app: <https://growl-sockets.herokuapp.com/>
 
 ### 1.3.2. M101JS
 
-#### 1.3.2.1. MongoUniversity Week 1
+#### 1.3.2.1. Week 1: Introduction
 
 See top right for name.
 
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo1.png)
 
-#### 1.3.2.2. MongoUniversity Week 2
+#### 1.3.2.2. Week 2: CRUD
 
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo2.png)
 
-#### 1.3.2.3. MongoUniversity Week 3
+#### 1.3.2.3. Week 3: The Node.js Driver
 
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo3.png)
 
-#### 1.3.2.4. MongoUniversity Week 4
+#### 1.3.2.4. Week 4: Schema Design
 
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo4.png)
 
-#### 1.3.2.5. MongoUniversity Week 5
+#### 1.3.2.5. Week 5: Indexes and Performance
 
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo5.png)
