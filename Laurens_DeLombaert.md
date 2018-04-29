@@ -20,12 +20,13 @@ In dit bestand kan u mijn werken voor het vak Webtech 3 [YP5536] raadplegen. Voo
         - [1.2.4. Exercise 4: NodeJS](#124-exercise-4-nodejs)
         - [1.2.5. Exercise 5: Web Sockets](#125-exercise-5-web-sockets)
             - [1.2.5.1. Extra miles](#1251-extra-miles)
-        - [1.2.6. Build tools](#126-build-tools)
-            - [1.2.6.1. Intro](#1261-intro)
-            - [1.2.6.2. CSS](#1262-css)
-            - [1.2.6.3. JS](#1263-js)
-            - [1.2.6.4. BrowserSync](#1264-browsersync)
-            - [1.2.6.5. Beyond](#1265-beyond)
+        - [1.2.6. Sass and BEM](#126-sass-and-bem)
+        - [1.2.7. Build tools](#127-build-tools)
+            - [1.2.7.1. Intro](#1271-intro)
+            - [1.2.7.2. CSS](#1272-css)
+            - [1.2.7.3. JS](#1273-js)
+            - [1.2.7.4. BrowserSync](#1274-browsersync)
+            - [1.2.7.5. Beyond](#1275-beyond)
     - [1.3. MongoDB University](#13-mongodb-university)
         - [1.3.1. M001](#131-m001)
             - [1.3.1.1. Chapter 1: Introduction](#1311-chapter-1-introduction)
@@ -109,33 +110,37 @@ Heroku app: <https://growl-sockets.herokuapp.com/>
 - Placing the question will show a feedback dialog, including animations.
 - ... (see code)
 
-### 1.2.6. Build tools
+### 1.2.6. Sass and BEM
+
+After the Sass and BEM classes I've been working on converting my existing projects with these standards. To prove my skills and understanding I shall be writing the css of my app for Product Lab with Sass and BEM.
+
+### 1.2.7. Build tools
 
 During this week I've learned a lot about efficient build tools through Gulp. Instead of having to do a lot of tasks manually each time while coding, most processes can be automated.
 
-#### 1.2.6.1. Intro
+#### 1.2.7.1. Intro
 
 As a starter, I've learned how to auto compile SASS (Pre-CSS) to CSS and to compress it live while working on the styling. From this point I've begun researching other possibilities of Gulp by extending my CSS watcher task. I've discovered about adding sourcemaps to the pipelines for inspecting with the original source code in my browser.
 
-#### 1.2.6.2. CSS
+#### 1.2.7.2. CSS
 
 By working more with the CSS buil dtools, I was daydreaming about previous classes from webtech on my way home. I remembered the talk about Post-CSS in the road map for front-end web developers and I got the idea to mix Pre-CSS and Post-CSS into one build tool.
 
 When I got home I immediately started experimenting with this and doing some [research](https://gist.github.com/renarsvilnis/ab8581049a3efe4d03d8). Eventually, I discovered [CSSNano](http://cssnano.co/), which was in [benchmarks](http://goalsmashers.github.io/css-minification-benchmark/) among the best minifyers for CSS. I also got to learn about [CSSNext](http://cssnext.io/), allowing to write future-proof CSS, with backwards compatibility to even Internet Explorer 10. There seem to be countless of other post-processors as well, like [ellipsis](https://www.npmjs.com/package/postcss-ellipsis) helpers and [autoprefixers](https://www.npmjs.com/package/gulp-autoprefixer), so this will be very interesting to stay researching about!
 
-#### 1.2.6.3. JS
+#### 1.2.7.3. JS
 
 In one of our first weeks in this course, we've learned about ES6 to enhance our JavaScript skills to the modern standards. Although this could be sometimes tricky for support old / non green browsers, there was a solution for this: namely Babel.
 
 After investigating about CSS gulp tasks, I became interested to see if there was anything build for implementing Babel into my gulp flow. From here I've added Babel with the same sourcemap pipelines to some of my projects. An interesting extra I've learned from here was concatenating multiple files into one, to save HTTP requests with one minified file.
 
-#### 1.2.6.4. BrowserSync
+#### 1.2.7.4. BrowserSync
 
 By going through more and more research about build tools, I discovered [BrowserSync](https://browsersync.io/) by accident. BrowserSync intrigued me to research more about it, as the tool offered automatisation for browser previewing with even PHP systems, across multiple devices!
 
 I've tried this out past midnight and got my WIP for Product Lab on localhost working across my whole home network and my WiFi. I couldn't get the live reload working yet for my files, but I was simply stunned by streaming my localhost across my network.
 
-#### 1.2.6.5. Beyond
+#### 1.2.7.5. Beyond
 
 To keep improving my knowledge about build tools I've been searching a lot of blogs and social media channels to follow writing about CSS, JS and build tools, so I can keep learning new and interesting tools to improve my work flow.  
 
