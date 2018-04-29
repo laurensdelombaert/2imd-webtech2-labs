@@ -9,23 +9,23 @@ In dit bestand kan u mijn werken voor het vak Webtech 3 [YP5536] raadplegen. Voo
 - [1. Portfolio Laurens De Lombaert](#1-portfolio-laurens-de-lombaert)
     - [1.1. Table of Contents](#11-table-of-contents)
     - [1.2. Classes](#12-classes)
-        - [1.2.1. Week 1: Git-it](#121-week-1-git-it)
+        - [1.2.1. Exercise 1: Git-it](#121-exercise-1-git-it)
             - [1.2.1.1. Git-it screenshot](#1211-git-it-screenshot)
-        - [1.2.2. Week 2: Flexbox & CSS Grids](#122-week-2-flexbox--css-grids)
+        - [1.2.2. Exercise 2: Flexbox & CSS Grids](#122-exercise-2-flexbox--css-grids)
             - [1.2.2.1. Flexbox Froggy](#1221-flexbox-froggy)
             - [1.2.2.2. CSS Grid Garden](#1222-css-grid-garden)
-        - [1.2.3. Week 3: ECS6](#123-week-3-ecs6)
+        - [1.2.3. Exercise 3: ECS6](#123-exercise-3-ecs6)
             - [1.2.3.1. Articles](#1231-articles)
             - [1.2.3.2. Links](#1232-links)
-        - [1.2.4. Week 4: NodeJS](#124-week-4-nodejs)
-        - [1.2.5. Week 5: Web Sockets](#125-week-5-web-sockets)
+        - [1.2.4. Exercise 4: NodeJS](#124-exercise-4-nodejs)
+        - [1.2.5. Exercise 5: Web Sockets](#125-exercise-5-web-sockets)
             - [1.2.5.1. Extra miles](#1251-extra-miles)
         - [1.2.6. Build tools](#126-build-tools)
             - [1.2.6.1. Intro](#1261-intro)
             - [1.2.6.2. CSS](#1262-css)
             - [1.2.6.3. JS](#1263-js)
-            - [BrowserSync](#browsersync)
-            - [Beyond](#beyond)
+            - [1.2.6.4. BrowserSync](#1264-browsersync)
+            - [1.2.6.5. Beyond](#1265-beyond)
     - [1.3. MongoDB University](#13-mongodb-university)
         - [1.3.1. M001](#131-m001)
             - [1.3.1.1. Chapter 1: Introduction](#1311-chapter-1-introduction)
@@ -41,7 +41,7 @@ In dit bestand kan u mijn werken voor het vak Webtech 3 [YP5536] raadplegen. Voo
 
 ## 1.2. Classes
 
-### 1.2.1. Week 1: Git-it
+### 1.2.1. Exercise 1: Git-it
 
 Team 6 repo: <https://github.com/laurensdelombaert/laboTeam6>
 
@@ -49,7 +49,7 @@ Team 6 repo: <https://github.com/laurensdelombaert/laboTeam6>
 
 ![Printscreen GIT-IT](http://laurenk170.170.axc.nl/webtech/gitit.png)
 
-### 1.2.2. Week 2: Flexbox & CSS Grids
+### 1.2.2. Exercise 2: Flexbox & CSS Grids
 
 Codepen: <https://codepen.io/laurensdelombaert/pen/vdzBEr>
 Upload test domain: <http://laurenk170.170.axc.nl/webtech/grids/watis.html>
@@ -64,7 +64,7 @@ Team 11 repo: <https://github.com/laurensdelombaert/laboteam11>
 
 ![Printscreen Grid-garden](http://laurenk170.170.axc.nl/webtech/grid.png)
 
-### 1.2.3. Week 3: ECS6
+### 1.2.3. Exercise 3: ECS6
 
 #### 1.2.3.1. Articles
 
@@ -77,13 +77,13 @@ Codepen: <https://codepen.io/laurensdelombaert/pen/LQqJQM>
 
 Github Repo: <https://github.com/laurensdelombaert/webtech-portfolio>
 
-### 1.2.4. Week 4: NodeJS
+### 1.2.4. Exercise 4: NodeJS
 
 Github Repo (watis branch): <https://github.com/laurensdelombaert/laboteam11/tree/watis>
 
 Heroku app: <https://laurensdelombaert-kweeni.herokuapp.com/kweenie/wat-is-express-js-en-waarvoor-dient-het>
 
-### 1.2.5. Week 5: Web Sockets
+### 1.2.5. Exercise 5: Web Sockets
 
 Github Repo: <https://github.com/laurensdelombaert/webtech-sockets>
 
@@ -129,13 +129,13 @@ In one of our first weeks in this course, we've learned about ES6 to enhance our
 
 After investigating about CSS gulp tasks, I became interested to see if there was anything build for implementing Babel into my gulp flow. From here I've added Babel with the same sourcemap pipelines to some of my projects. An interesting extra I've learned from here was concatenating multiple files into one, to save HTTP requests with one minified file.
 
-#### BrowserSync
+#### 1.2.6.4. BrowserSync
 
 By going through more and more research about build tools, I discovered [BrowserSync](https://browsersync.io/) by accident. BrowserSync intrigued me to research more about it, as the tool offered automatisation for browser previewing with even PHP systems, across multiple devices!
 
 I've tried this out past midnight and got my WIP for Product Lab on localhost working across my whole home network and my WiFi. I couldn't get the live reload working yet for my files, but I was simply stunned by streaming my localhost across my network.
 
-#### Beyond
+#### 1.2.6.5. Beyond
 
 To keep improving my knowledge about build tools I've been searching a lot of blogs and social media channels to follow writing about CSS, JS and build tools, so I can keep learning new and interesting tools to improve my work flow.  
 
