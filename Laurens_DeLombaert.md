@@ -30,6 +30,7 @@ In dit bestand kan u mijn werken voor het vak Webtech 3 [YP5536] raadplegen. Voo
     - [1.3. MongoDB University](#13-mongodb-university)
         - [1.3.1. M001](#131-m001)
             - [1.3.1.1. Chapter 1: Introduction](#1311-chapter-1-introduction)
+            - [1.3.1.2. Chapter 2: The MongoDB Query Language + Atlas](#1312-chapter-2-the-mongodb-query-language--atlas)
         - [1.3.2. M101JS](#132-m101js)
             - [1.3.2.1. Week 1: Introduction](#1321-week-1-introduction)
             - [1.3.2.2. Week 2: CRUD](#1322-week-2-crud)
@@ -155,6 +156,10 @@ Paragraphs in this section are copied from the official Syllabus from MongoDB Un
 Introduction to MongoDB, Compass, and Basic Queries
 
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/m001-lab1.png)
+
+#### 1.3.1.2. Chapter 2: The MongoDB Query Language + Atlas
+
+![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/m001-lab2.png)
 
 ### 1.3.2. M101JS
 
