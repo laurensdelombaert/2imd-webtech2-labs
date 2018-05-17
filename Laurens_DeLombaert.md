@@ -41,6 +41,7 @@ In dit bestand kan u mijn werken voor het vak Webtech 3 [YP5536] raadplegen. Voo
             - [1.3.2.4. Week 4: Schema Design](#1324-week-4-schema-design)
             - [1.3.2.5. Week 5: Indexes and Performance](#1325-week-5-indexes-and-performance)
             - [1.3.2.6. Week 6: The Aggregation Framework](#1326-week-6-the-aggregation-framework)
+            - [1.3.2.7. Week 7: Application Engineering + Exam](#1327-week-7-application-engineering--exam)
 
 <!-- /TOC -->
 
@@ -216,3 +217,11 @@ Using Indexes, Monitoring And Understanding Performance. Performance In Sharded 
 The aggregation pipeline; pipeline stages; expressions; accumulators, and best practices
 
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo6.png)
+
+#### 1.3.2.7. Week 7: Application Engineering + Exam
+
+Drivers, Impact Of Replication And Sharding On Design and Development.
+
+In this project we put together everything we've covered through the course to build a complete application backed by MongoDB.
+
+![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo7.png)
