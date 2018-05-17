@@ -27,6 +27,7 @@ In dit bestand kan u mijn werken voor het vak Webtech 3 [YP5536] raadplegen. Voo
             - [1.2.7.3. JS](#1273-js)
             - [1.2.7.4. BrowserSync](#1274-browsersync)
             - [1.2.7.5. Beyond](#1275-beyond)
+        - [1.2.8. Project Building](#128-project-building)
     - [1.3. MongoDB University](#13-mongodb-university)
         - [1.3.1. M001](#131-m001)
             - [1.3.1.1. Chapter 1: Introduction](#1311-chapter-1-introduction)
@@ -143,7 +144,13 @@ I've tried this out past midnight and got my WIP for Product Lab on localhost wo
 
 #### 1.2.7.5. Beyond
 
-To keep improving my knowledge about build tools I've been searching a lot of blogs and social media channels to follow writing about CSS, JS and build tools, so I can keep learning new and interesting tools to improve my work flow.  
+To keep improving my knowledge about build tools I've been searching a lot of blogs and social media channels to follow writing about CSS, JS and build tools, so I can keep learning new and interesting tools to improve my work flow.
+
+### 1.2.8. Project Building
+
+To help both the development and deployment of Node focussed apps, I've learned to use the NPM config package. This package easily allows you to create configurations in either JSON or YAML. Although we've learned a bit about YAML during our first Drupal lessons, I've chosen for the JSON format for this class.
+
+As a result, instead of being required to update your MongoDB connection, Node is now being automated to switch between either the local or remote MongoDB.
 
 ## 1.3. MongoDB University
 
