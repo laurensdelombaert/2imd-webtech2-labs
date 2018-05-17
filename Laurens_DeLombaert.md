@@ -28,6 +28,8 @@ In dit bestand kan u mijn werken voor het vak Webtech 3 [YP5536] raadplegen. Voo
             - [1.2.7.4. BrowserSync](#1274-browsersync)
             - [1.2.7.5. Beyond](#1275-beyond)
         - [1.2.8. Project Building](#128-project-building)
+        - [1.2.9. Kweeni Team](#129-kweeni-team)
+            - [1.2.9.1. "Routes"](#1291-routes)
     - [1.3. MongoDB University](#13-mongodb-university)
         - [1.3.1. M001](#131-m001)
             - [1.3.1.1. Chapter 1: Introduction](#1311-chapter-1-introduction)
@@ -151,6 +153,15 @@ To keep improving my knowledge about build tools I've been searching a lot of bl
 To help both the development and deployment of Node focussed apps, I've learned to use the NPM config package. This package easily allows you to create configurations in either JSON or YAML. Although we've learned a bit about YAML during our first Drupal lessons, I've chosen for the JSON format for this class.
 
 As a result, instead of being required to update your MongoDB connection, Node is now being automated to switch between either the local or remote MongoDB.
+
+### 1.2.9. Kweeni Team
+
+Together with Sara Breugelmans and Midas Van Espen I've teamed up in the last months to re-create Kweeni. For this project we've bundled our skills from this semester in NodeJS, ExpressJS, ECS6, MongoDB and more to go the extra mile and beyond for finishing this boss task in the end!
+
+#### 1.2.9.1. "Routes"
+
+- [Github repository](https://github.com/laurensdelombaert/kweeni__team8)
+- [Heroku app](https://kweeni-team8-dev.herokuapp.com/)
 
 ## 1.3. MongoDB University
 
