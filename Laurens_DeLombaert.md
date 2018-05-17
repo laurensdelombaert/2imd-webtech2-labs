@@ -43,6 +43,9 @@ In dit bestand kan u mijn werken voor het vak Webtech 3 [YP5536] raadplegen. Voo
             - [1.3.2.5. Week 5: Indexes and Performance](#1325-week-5-indexes-and-performance)
             - [1.3.2.6. Week 6: The Aggregation Framework](#1326-week-6-the-aggregation-framework)
             - [1.3.2.7. Week 7: Application Engineering + Exam](#1327-week-7-application-engineering--exam)
+        - [1.3.3. Certificates](#133-certificates)
+            - [1.3.3.1. M001: MongoDB Basics](#1331-m001-mongodb-basics)
+            - [1.3.3.2. M101JS: MongoDB for Node.js Developers](#1332-m101js-mongodb-for-nodejs-developers)
 
 <!-- /TOC -->
 
@@ -234,3 +237,13 @@ Drivers, Impact Of Replication And Sharding On Design and Development.
 In this project we put together everything we've covered through the course to build a complete application backed by MongoDB.
 
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/mongo7.png)
+
+### 1.3.3. Certificates
+
+#### 1.3.3.1. M001: MongoDB Basics
+
+![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/certificate-m001.jpg)
+
+#### 1.3.3.2. M101JS: MongoDB for Node.js Developers
+
+![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/certificate-m101js.jpg)
