@@ -34,6 +34,7 @@ In dit bestand kan u mijn werken voor het vak Webtech 3 [YP5536] raadplegen. Voo
         - [1.3.1. M001](#131-m001)
             - [1.3.1.1. Chapter 1: Introduction](#1311-chapter-1-introduction)
             - [1.3.1.2. Chapter 2: The MongoDB Query Language + Atlas](#1312-chapter-2-the-mongodb-query-language--atlas)
+            - [1.3.1.3. Chapter 3: Deeper dive + Exam](#1313-chapter-3-deeper-dive--exam)
         - [1.3.2. M101JS](#132-m101js)
             - [1.3.2.1. Week 1: Introduction](#1321-week-1-introduction)
             - [1.3.2.2. Week 2: CRUD](#1322-week-2-crud)
@@ -179,6 +180,14 @@ Introduction to MongoDB, Compass, and Basic Queries
 #### 1.3.1.2. Chapter 2: The MongoDB Query Language + Atlas
 
 ![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/m001-lab2.png)
+
+#### 1.3.1.3. Chapter 3: Deeper dive + Exam
+
+Query operators: element operators, logical operators, array operators, and the regex operator.
+
+Any topic in this course might be addressed in the final exam.
+
+![Printscreen Mongo University](http://laurenk170.170.axc.nl/webtech/m001-lab3.png)
 
 ### 1.3.2. M101JS
 
